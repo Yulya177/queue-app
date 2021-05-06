@@ -1,0 +1,13 @@
+syntax: glob
+build/*
+building/*
+building_cmrc/*
+dist/*
+out/*
+classes/*
+logs/*
+rxtx*
+temp/*
+.nb-gradle/*
+.gradle/*
+
